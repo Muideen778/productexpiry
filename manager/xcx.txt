@@ -1,0 +1,27 @@
+40	Neurobion	990	39600	Remove
+20	Metformin + glibenclamide	1320	26400	Remove
+240	Glucophage 500	504.166	121000	Remove
+1000	Inj pantozocine 30mg	45	45000	Remove
+210	Cipro tn	216.666666	45500	Remove
+210	Clopidogrel	400	84000	Remove
+25	SYR ASTYMIN	800	20000	Remove
+90	S amlodipine 5mg	600	54000	Remove
+100	TAB ARTHRELLA	800	80000	Remove
+80	Zetgel	250	20000	Remove
+10	TAB PREGABALIN 75MG (NEUROGAB)	2640	26400	Remove
+50	Gramocef cv	1123.1	56155	Remove
+2000	Normal saline 0.9%	145.75	291500	Remove
+50	Cap microfer	561	28050	Remove
+250	Syr cadiphen	385	96250	Remove
+150	Dolac inj	165	24750	Remove
+60	Dolac	385	23100	Remove
+500	INJ FYTOBACT (CEFOPERAZONE + SULBACTAM)	1705	852500	Remove
+120	HAEM -F	440	52800	Remove
+240	Locid susp	440	105600	Remove
+45	Teli 40mg	770	34650	Remove
+45	Telmisartan 80mg	953.3333	42900	Remove
+45	Telmisartan h	843.33333	37950	Remove
+550	Inj ceftriazone (axone)	550	302500	Remove
+200	Nifedipine 20	66	13200	Remove
+90	Ramipril 5mg	566.666	51000	Remove
+10	TAB DICYNONE 250MG	1320	13200	Remove
